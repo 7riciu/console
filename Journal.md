@@ -1,7 +1,7 @@
 ---
 title: "Console"
 author: "Patricia Tepordei"
-description: "Describe your project in a short sentence!"
+description: "Game console"
 created_at: "2026-05-09"
 ---
 
