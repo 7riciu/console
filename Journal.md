@@ -134,3 +134,9 @@ I also realised I need to change the arrangement of the PCB once again because t
 [current product](journal_pictures/hc16.png)
 
 **Total time spent: 3.38h**
+
+# July 23rd: Firmware!
+
+Today I made the snake game using Arduino IDE! You have a snake that gets bigger and bigger as he eats the randomly-spawned pieces of food. I added a start screen you can exit by pressing one of the buttons on the right and a "game over" screen that displays the accumulated score of each round.
+
+**Total time spent: 1.55h**
